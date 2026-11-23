@@ -10,13 +10,13 @@
 
 ## 平地踢空 · Grounded kick
 
-**任务失败时**，飞飞鼠先抬脚，伸腿朝镜头踢一下，踩地的那只脚撑住身体。踢空后它立刻收腿，愣一下才捂脸偷看。**鼠标悬停**时播放普通跳跃。
+**任务失败时**，飞飞鼠先把重心压到支撑脚上，侧身蓄力，再带着肩和髋一起伸腿。踢空后身体回摆，踩回原位，再捂脸偷看。镜头沿用桌宠的固定正面视角。**鼠标悬停**时播放普通跳跃。
 
-The grounded kick plays in the desktop pet’s **failed task** animation. Hover over the floating pet to see its regular hop.
+The grounded kick plays in the desktop pet’s **failed task** animation. It shifts its weight, turns its shoulders and hips into the kick, then rocks back to recover. The desktop camera stays fixed. Hover over the floating pet to see its regular hop.
 
 ![飞飞鼠踩住一只脚，伸出另一条腿踢空，收脚后捂脸偷看](docs/images/ground-kick.gif)
 
-动作参考了视频约 1.67–1.97 秒处向镜头伸腿的轮廓，以及约 10.20–10.57 秒处的伸腿与收脚节奏。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
+动作参考了视频约 1.53–2.20 秒处的重心转移，以及约 10.20–10.57 秒处的伸腿与收脚节奏。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
 
 <details>
 <summary>播放九种状态 · Watch all nine animations</summary>
