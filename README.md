@@ -1,22 +1,22 @@
 # 飞飞鼠 · Feifeishu for Codex
 
-飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，努力朝镜头蹬了一下，结果小短腿够不着，忙着收脚站稳。
+飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，一只脚踩地，另一条腿努力朝镜头伸一下，踢空了才捂脸偷看。
 
-**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. Hover over it and watch its tiny leg swing, miss, and scramble back into balance. It also waves, types with alternating paws, and pushes up its glasses during review.
+**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. When a task fails, it plants one foot, reaches forward with the other, misses, and peeks out from behind its paws. It also waves, types with alternating paws, and adjusts its glasses during review.
 
 [**下载 Windows 安装包 · Download for Windows**](https://github.com/99Like-wjj/feifeishu-codex-pet/releases/latest/download/feifeishu-codex-pet-windows.zip) · [版本记录 · Releases](https://github.com/99Like-wjj/feifeishu-codex-pet/releases)
 
-![最终版飞飞鼠的待机、短腿踢空、侧面跑动、点赞、敲键盘和扶眼镜](docs/images/preview.png)
+![最终版飞飞鼠的待机、平地踢空、侧面跑动、点赞、敲键盘和扶眼镜](docs/images/preview.png)
 
-## 怎么触发短腿踢空 · Hover to see the kick
+## 平地踢空 · Grounded kick
 
-把鼠标移到 **悬浮桌宠身上** 并停一下。飞飞鼠会沿用 Codex 的悬停跳跃，蹦起来伸一只小脚，踢空后收腿、张爪，落地站稳。
+**任务失败时**，飞飞鼠先抬脚，伸腿朝镜头踢一下，踩地的那只脚撑住身体。踢空后它立刻收腿，愣一下才捂脸偷看。**鼠标悬停**时播放普通跳跃。
 
-Hover over the **floating desktop pet** and pause briefly. The move plays at the top of Codex’s existing hover jump, followed by a quick recovery and landing.
+The grounded kick plays in the desktop pet’s **failed task** animation. Hover over the floating pet to see its regular hop.
 
-![飞飞鼠跳起来伸出小短腿，踢空后张开爪子找平衡](docs/images/hover-kick.gif)
+![飞飞鼠踩住一只脚，伸出另一条腿踢空，收脚后捂脸偷看](docs/images/ground-kick.gif)
 
-动作参考了视频约 1.7 秒和 10.2 秒处向镜头探脚、迅速收回的节奏。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
+动作参考了视频约 1.67–1.97 秒处向镜头伸腿的轮廓，以及约 10.20–10.57 秒处的伸腿与收脚节奏。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
 
 <details>
 <summary>播放九种状态 · Watch all nine animations</summary>
@@ -46,8 +46,8 @@ Hover over the **floating desktop pet** and pause briefly. The move plays at the
 | 待机 | 眨眼、憋笑 | Blink and smirk |
 | 左右走动 | 侧身小跑 | Run left or right |
 | 招手 | 挥爪后竖拇指 | Wave and give a thumbs-up |
-| 悬停跳跃 | 起跳、踢空、张爪收腿、落地 | Hop, miss with a tiny kick, recover, and land |
-| 失误 | 捂脸后从手后偷看 | Facepalm and peek |
+| 悬停跳跃 | 起跳、腾空、落地 | Hop and land |
+| 任务失败 | 站着伸腿踢空，收脚后捂脸偷看 | Grounded kick, whiff, facepalm, and peek |
 | 等待 | 合手等一会儿，再摊开手 | Clasp paws, then shrug |
 | 工作 | 左右爪交替敲小键盘 | Type with alternating paws |
 | 审阅 | 眯眼扶镜框 | Squint and adjust glasses |
