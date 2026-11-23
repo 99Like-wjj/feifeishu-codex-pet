@@ -10,13 +10,13 @@
 
 ## 站姿扫腿 · Standing sweep
 
-**任务失败时**，飞飞鼠从站姿直接抬起一条腿，扫过身前。支撑脚着地，扫动脚抬到下腹附近，肩和髋随动作转过去。扫空后收脚站稳，再捂脸偷看。镜头沿用桌宠的固定正面视角。**鼠标悬停**时播放普通跳跃。
+**任务失败时**，飞飞鼠从站姿直接抬腿，脚从画面右侧扫过腹前，带着肩和髋转向左侧。扫动脚保持离地，横过时挡住一部分下腹。随后把脚收回身下，再捂脸偷看。桌宠使用固定正面视角。**鼠标悬停**时播放普通跳跃。
 
-The standing sweep plays in the desktop pet’s **failed task** animation. It lifts one foot to the height of its lower belly and sweeps it across the front while its body turns. The front camera stays fixed. Hover over the floating pet to see its regular hop.
+The standing sweep plays in the desktop pet’s **failed task** animation. The pet brings its raised leg from screen-right across its belly and toward screen-left as its shoulders and hips turn. It then draws the foot back under its body. The front camera stays fixed. Hover over the floating pet to see its regular hop.
 
 ![飞飞鼠一只脚撑地，另一只脚抬起从身前横扫过去，收脚后捂脸偷看](docs/images/ground-kick.gif)
 
-扫腿借鉴了视频中的摆身、抬脚和快速收腿。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
+从原片 1.467–2.200 秒每隔两帧取样，并以 1.600、1.733、1.867、2.000 和 2.200 秒对照抬脚、横扫和收腿姿势。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
 
 <details>
 <summary>播放九种状态 · Watch all nine animations</summary>
