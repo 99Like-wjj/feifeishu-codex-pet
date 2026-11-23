@@ -1,22 +1,22 @@
 # 飞飞鼠 · Feifeishu for Codex
 
-飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，一只脚踩地，另一条腿努力朝镜头伸一下，踢空了才捂脸偷看。
+飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，一只脚踩地，另一只脚直直往前一蹬，蹬空了才捂脸偷看。
 
-**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. When a task fails, it plants one foot, reaches forward with the other, misses, and peeks out from behind its paws. It also waves, types with alternating paws, and adjusts its glasses during review.
+**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. When a task fails, it plants one foot, pushes the other straight forward, misses, and peeks out from behind its paws. It also waves, types with alternating paws, and adjusts its glasses during review.
 
 [**下载 Windows 安装包 · Download for Windows**](https://github.com/99Like-wjj/feifeishu-codex-pet/releases/latest/download/feifeishu-codex-pet-windows.zip) · [版本记录 · Releases](https://github.com/99Like-wjj/feifeishu-codex-pet/releases)
 
-![最终版飞飞鼠的待机、平地踢空、侧面跑动、点赞、敲键盘和扶眼镜](docs/images/preview.png)
+![最终版飞飞鼠的待机、正面蹬空、侧面跑动、点赞、敲键盘和扶眼镜](docs/images/preview.png)
 
-## 平地踢空 · Grounded kick
+## 正面前蹬 · Forward foot push
 
-**任务失败时**，飞飞鼠先把重心压到支撑脚上，侧身蓄力，再带着肩和髋一起伸腿。踢空后身体回摆，踩回原位，再捂脸偷看。镜头沿用桌宠的固定正面视角。**鼠标悬停**时播放普通跳跃。
+**任务失败时**，飞飞鼠先屈膝抬脚，再用脚底朝正面一蹬。出脚时上身微仰，蹬空后身体前倾，脚沿原路收回，再捂脸偷看。镜头沿用桌宠的固定正面视角。**鼠标悬停**时播放普通跳跃。
 
-The grounded kick plays in the desktop pet’s **failed task** animation. It shifts its weight, turns its shoulders and hips into the kick, then rocks back to recover. The desktop camera stays fixed. Hover over the floating pet to see its regular hop.
+The forward foot push plays in the desktop pet’s **failed task** animation. It tucks its knee, presses one sole straight forward, then rocks forward as it retracts the foot. The front camera stays fixed. Hover over the floating pet to see its regular hop.
 
-![飞飞鼠踩住一只脚，伸出另一条腿踢空，收脚后捂脸偷看](docs/images/ground-kick.gif)
+![飞飞鼠一只脚踩地，另一只脚朝正面蹬空，收脚后捂脸偷看](docs/images/ground-kick.gif)
 
-动作参考了视频约 1.53–2.20 秒处的重心转移，以及约 10.20–10.57 秒处的伸腿与收脚节奏。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
+动作参考了视频约 1.53–2.20 秒处屈膝、脚底朝前蹬出并收回的节奏。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
 
 <details>
 <summary>播放九种状态 · Watch all nine animations</summary>
@@ -47,7 +47,7 @@ The grounded kick plays in the desktop pet’s **failed task** animation. It shi
 | 左右走动 | 侧身小跑 | Run left or right |
 | 招手 | 挥爪后竖拇指 | Wave and give a thumbs-up |
 | 悬停跳跃 | 起跳、腾空、落地 | Hop and land |
-| 任务失败 | 站着伸腿踢空，收脚后捂脸偷看 | Grounded kick, whiff, facepalm, and peek |
+| 任务失败 | 屈膝直蹬，收脚后捂脸偷看 | Forward foot push, retract, facepalm, and peek |
 | 等待 | 合手等一会儿，再摊开手 | Clasp paws, then shrug |
 | 工作 | 左右爪交替敲小键盘 | Type with alternating paws |
 | 审阅 | 眯眼扶镜框 | Squint and adjust glasses |
