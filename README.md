@@ -1,22 +1,12 @@
 # 飞飞鼠 · Feifeishu for Codex
 
-飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，站着就抬腿横扫出去，扫空了才捂脸偷看。
+飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，平时爱憋笑，任务失误时会捂脸再偷看。
 
-**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. When a task fails, it sweeps one raised foot sideways from a standing pose, misses, and peeks out from behind its paws. It also waves, types with alternating paws, and adjusts its glasses during review.
+**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. It waves, types with alternating paws, and adjusts its glasses during review. After a failed task, it covers its face and peeks out from behind one paw.
 
 [**下载 Windows 安装包 · Download for Windows**](https://github.com/99Like-wjj/feifeishu-codex-pet/releases/latest/download/feifeishu-codex-pet-windows.zip) · [版本记录 · Releases](https://github.com/99Like-wjj/feifeishu-codex-pet/releases)
 
-![飞飞鼠的待机、抬脚横扫、侧面跑动、点赞、敲键盘和扶眼镜](docs/images/preview.png)
-
-## 站姿扫腿 · Standing sweep
-
-**任务失败时**，飞飞鼠从站姿直接抬腿，脚从画面右侧扫过腹前，带着肩和髋转向左侧。扫动脚保持离地，横过时挡住一部分下腹。随后把脚收回身下，再捂脸偷看。桌宠使用固定正面视角。**鼠标悬停**时播放普通跳跃。
-
-The standing sweep plays in the desktop pet’s **failed task** animation. The pet brings its raised leg from screen-right across its belly and toward screen-left as its shoulders and hips turn. It then draws the foot back under its body. The front camera stays fixed. Hover over the floating pet to see its regular hop.
-
-![飞飞鼠一只脚撑地，另一只脚抬起从身前横扫过去，收脚后捂脸偷看](docs/images/ground-kick.gif)
-
-从原片 1.467–2.200 秒每隔两帧取样，并以 1.600、1.733、1.867、2.000 和 2.200 秒对照抬脚、横扫和收腿姿势。[飞飞鼠与马头羊（再补档）](https://www.bilibili.com/video/BV1Gj476zEQL/)
+![飞飞鼠的待机、捂脸偷看、侧面跑动、点赞、敲键盘和扶眼镜](docs/images/preview.png)
 
 <details>
 <summary>播放九种状态 · Watch all nine animations</summary>
@@ -47,7 +37,7 @@ The standing sweep plays in the desktop pet’s **failed task** animation. The p
 | 左右走动 | 侧身小跑 | Run left or right |
 | 招手 | 挥爪后竖拇指 | Wave and give a thumbs-up |
 | 悬停跳跃 | 起跳、腾空、落地 | Hop and land |
-| 任务失败 | 站姿抬腿横扫，收脚后捂脸偷看 | Standing sweep, facepalm, and peek |
+| 任务失败 | 先瞪眼，再捂脸偷看 | Widen eyes, facepalm, and peek |
 | 等待 | 合手等一会儿，再摊开手 | Clasp paws, then shrug |
 | 工作 | 左右爪交替敲小键盘 | Type with alternating paws |
 | 审阅 | 眯眼扶镜框 | Squint and adjust glasses |
