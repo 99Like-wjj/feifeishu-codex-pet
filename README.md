@@ -1,18 +1,18 @@
 # 飞飞鼠 · Feifeishu for Codex
 
-飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，屈膝一沉，抬起一只脚低低横扫过去，扫空了才捂脸偷看。
+飞飞鼠是可以装进 **Codex 桌面应用**的 Faker 梗图桌宠，也叫大飞鼠、飞天鼠。它戴着圆眼镜，站着就抬腿横扫出去，扫空了才捂脸偷看。
 
-**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. When a task fails, it crouches and sweeps one foot sideways just above the ground, misses, and peeks out from behind its paws. It also waves, types with alternating paws, and adjusts its glasses during review.
+**Feifeishu** is an animated **Codex desktop pet** inspired by the **Faker Flying Squirrel** and **Faker Flying Mouse** memes. When a task fails, it sweeps one raised foot sideways from a standing pose, misses, and peeks out from behind its paws. It also waves, types with alternating paws, and adjusts its glasses during review.
 
 [**下载 Windows 安装包 · Download for Windows**](https://github.com/99Like-wjj/feifeishu-codex-pet/releases/latest/download/feifeishu-codex-pet-windows.zip) · [版本记录 · Releases](https://github.com/99Like-wjj/feifeishu-codex-pet/releases)
 
 ![飞飞鼠的待机、抬脚横扫、侧面跑动、点赞、敲键盘和扶眼镜](docs/images/preview.png)
 
-## 抬脚扫堂腿 · Low raised sweep
+## 站姿扫腿 · Standing sweep
 
-**任务失败时**，飞飞鼠先用一只脚撑住身体，屈膝蓄力。另一只脚抬离地面一点，从一侧扫过身前，扫到另一侧。它的肩和髋跟着转，扫空后收脚站稳，再捂脸偷看。镜头沿用桌宠的固定正面视角。**鼠标悬停**时播放普通跳跃。
+**任务失败时**，飞飞鼠从站姿直接抬起一条腿，扫过身前。支撑脚着地，扫动脚抬到下腹附近，肩和髋随动作转过去。扫空后收脚站稳，再捂脸偷看。镜头沿用桌宠的固定正面视角。**鼠标悬停**时播放普通跳跃。
 
-The low sweep plays in the desktop pet’s **failed task** animation. It shifts its weight to one foot, lifts the other just clear of the ground, and sweeps it across the front while its body turns. The front camera stays fixed. Hover over the floating pet to see its regular hop.
+The standing sweep plays in the desktop pet’s **failed task** animation. It lifts one foot to the height of its lower belly and sweeps it across the front while its body turns. The front camera stays fixed. Hover over the floating pet to see its regular hop.
 
 ![飞飞鼠一只脚撑地，另一只脚抬起从身前横扫过去，收脚后捂脸偷看](docs/images/ground-kick.gif)
 
@@ -47,7 +47,7 @@ The low sweep plays in the desktop pet’s **failed task** animation. It shifts 
 | 左右走动 | 侧身小跑 | Run left or right |
 | 招手 | 挥爪后竖拇指 | Wave and give a thumbs-up |
 | 悬停跳跃 | 起跳、腾空、落地 | Hop and land |
-| 任务失败 | 屈膝抬脚横扫，收脚后捂脸偷看 | Low raised sweep, facepalm, and peek |
+| 任务失败 | 站姿抬腿横扫，收脚后捂脸偷看 | Standing sweep, facepalm, and peek |
 | 等待 | 合手等一会儿，再摊开手 | Clasp paws, then shrug |
 | 工作 | 左右爪交替敲小键盘 | Type with alternating paws |
 | 审阅 | 眯眼扶镜框 | Squint and adjust glasses |
